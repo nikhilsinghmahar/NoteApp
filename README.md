@@ -56,6 +56,6 @@ Future Improvements:
 4.Add rich text formatting options.
 
 
-Author
+Author:
 
 1.This project is developed as a simple demonstration of web development using HTML, CSS, and JavaScript.
